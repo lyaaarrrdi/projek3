@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="logo">SMKN 9 MEDAN</h1>
+        <nav class="nav">
+        <a href="index.html">home</a>
+        <a href="style-guide.html">style guide</a>
+    </nav>     
+    </header>
+    <header class="site-header">
+
+    </header>
+
+    <main class="content">
+        <section>
+            <h2>tipografi</h2>
+            <h1>heading 1</h1>
+            <h2>heading 2</h2>
+            <h3>heading 3</h3>
+            <p>paragraf biasa Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, impedit laborum! Architecto tempore nihil provident quidem sunt explicabo fugit dicta!</p>
+        </section>
+        <section>
+            <h2>warna HSL</h2>
+            <div class="swatches">
+                <div class="swatche color-primary">primary</div>
+                <div class="swatche color-secondary">secondary</div>
+                <div class="swatche color-content">content</div>
+            </div>
+        </section>
+
+    </main>
+
+    <main class="content">
+
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 ALYA PUTRI</p>
+
+    </footer>
+    
+    <script src="script.js">
+
+    </script>
+    
+</body>
+</html>
